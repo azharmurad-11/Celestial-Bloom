@@ -1,7 +1,7 @@
 # Celestial-Bloom
 Celestial Bloom
 
-To play the game:
+To play the game demo:
 https://drive.google.com/file/d/126L1C6brSIGZzp2gDLt4sEcBwQ3m_4cH/view?usp=drive_link
 
 To check game assets and files:
